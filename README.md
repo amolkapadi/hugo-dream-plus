@@ -1,3 +1,4 @@
+#improve docs
 # Dream Plus Theme for Hugo
 [![Build Status](https://travis-ci.org/UtkarshVerma/hugo-dream-plus.svg?branch=master)](https://travis-ci.org/UtkarshVerma/hugo-dream-plus)
 [![Posts View Demo](https://api.netlify.com/api/v1/badges/6ef6f16b-9f2b-4d4a-9c35-8ef5a28783df/deploy-status)](https://app.netlify.com/sites/dream-plus-posts/deploys)
